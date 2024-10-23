@@ -66,7 +66,7 @@ In the analysis of store performance, we identified several stores with no recor
 This strategy aims to enhance overall retail performance and adapt to changing consumer needs.
 ### AT RISK customer
 During our analysis, we identified a segment of at-risk customers who exhibit signs of disengagement from our services. This finding is crucial for maintaining customer loyalty and ensuring sustained business growth.
-## Recommended Actions:
+#### Recommended Actions:
 - Personalized Outreach: Develop targeted communication strategies to reach out to at-risk customers. Personalize messages based on their purchase history and preferences.
 - Incentives and Promotions: Offer tailored promotions or discounts to encourage these customers to return and engage with our products or services.
 - Feedback Mechanism: Implement a feedback system to understand their concerns or reasons for disengagement. Use this information to improve service offerings.
