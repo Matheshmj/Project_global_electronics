@@ -15,7 +15,7 @@ By analyzing customer, product, sales, and store data, this project focuses on:
 - MySQL for storing and retrieving cleaned data.
 - Power BI for data visualization.
 ## Data Sources
-Global Electronics Retailers Dataset on Kaggle
+
 ## Datasets:
 - Customer data (Customers.csv): Demographic details such as gender, D.O.B, and location.
 - Sales data (Sales.csv): Transaction details, including product quantities, dates, and store IDs.
