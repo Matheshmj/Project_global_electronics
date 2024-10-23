@@ -17,11 +17,11 @@ By analyzing customer, product, sales, and store data, this project focuses on:
 ## Data Sources
 Global Electronics Retailers Dataset on Kaggle
 ## Datasets:
-- Customer data (customers.csv): Demographic details such as gender, D.O.B, and location.
-- Sales data (sales.csv): Transaction details, including product quantities, dates, and store IDs.
-- Products data (products.csv): Product information including categories, unit prices, and costs.
-- Stores data (stores.csv): Store locations, operational attributes, and sales performance.
-- Currency exchange rates data (exchangerates.csv): Historical exchange rates for financial analysis.
+- Customer data (Customers.csv): Demographic details such as gender, D.O.B, and location.
+- Sales data (Sales.csv): Transaction details, including product quantities, dates, and store IDs.
+- Products data (Products.csv): Product information including categories, unit prices, and costs.
+- Stores data (Stores.csv): Store locations, operational attributes, and sales performance.
+- Currency exchange rates data (Exchange_Rates.csv): Historical exchange rates for financial analysis.
 ## Approach
 ### Data Cleaning and Preparation
 - Handling missing values and converting data types (e.g., dates, numerical values).
