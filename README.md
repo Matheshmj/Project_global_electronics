@@ -58,6 +58,18 @@ By analyzing customer, product, sales, and store data, this project focuses on:
 ### Sales and Delivery Trends
 - Seasonal trends: Sales peak in December and decline in April annually.
 - Growth trend: Sales saw an upward trend from 2017 to 2020, with a slight dip after April 2020.
+### Store analysis 
+In the analysis of store performance, we identified several stores with no recorded orders, particularly those over 12 years old. This indicates they may not be in active use. To address this, we recommend conducting a thorough evaluation of these stores to determine the most appropriate action. Options include:
+
+- Renovation: For stores in good condition, consider updates to attract new customers and tenants.
+- Demolition: For stores that are beyond repair or in less favorable locations, demolishing them could pave the way for new developments.
+This strategy aims to enhance overall retail performance and adapt to changing consumer needs.
+### AT RISK customer
+During our analysis, we identified a segment of at-risk customers who exhibit signs of disengagement from our services. This finding is crucial for maintaining customer loyalty and ensuring sustained business growth.
+## Recommended Actions:
+- Personalized Outreach: Develop targeted communication strategies to reach out to at-risk customers. Personalize messages based on their purchase history and preferences.
+- Incentives and Promotions: Offer tailored promotions or discounts to encourage these customers to return and engage with our products or services.
+- Feedback Mechanism: Implement a feedback system to understand their concerns or reasons for disengagement. Use this information to improve service offerings.
 ## Conclusion
 - The analysis provides insights that can guide Global Electronics in refining their marketing strategies, improving product offerings, and optimizing store operations. Addressing the preferences of a diverse customer base and considering currency exchange impacts can further drive business growth.
 
