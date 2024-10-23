@@ -1,15 +1,15 @@
-#Global Electronics - Data Analytics Project
-Problem Statement
+# Global Electronics - Data Analytics Project
+## Problem Statement
 As part of the Global Electronics data analytics team, the goal is to conduct a comprehensive Exploratory Data Analysis (EDA) to uncover valuable insights from the company’s data. The aim is to provide actionable recommendations that enhance customer satisfaction, optimize operations, and drive overall business growth.
 
-Business Use Cases
+## Business Use Cases
 By analyzing customer, product, sales, and store data, this project focuses on:
 
-Enhancing marketing strategies based on customer insights.
-Optimizing inventory management by analyzing product demand.
-Improving sales forecasting and planning store expansions.
-Leveraging currency exchange rates to refine international pricing strategies.
-Tools Used
+- Enhancing marketing strategies based on customer insights.
+- Optimizing inventory management by analyzing product demand.
+- Improving sales forecasting and planning store expansions.
+- Leveraging currency exchange rates to refine international pricing strategies.
+## Tools Used
 Jupyter Notebook for analysis.
 Visual Studio Code as the IDE.
 Python (Pandas, Matplotlib, Seaborn) for data cleaning and EDA.
