@@ -15,7 +15,7 @@ By analyzing customer, product, sales, and store data, this project focuses on:
 - MySQL for storing and retrieving cleaned data.
 - Power BI for data visualization.
 ## Data Sources
-
+- https://github.com/Matheshmj/Project_global_electronics/tree/b72251d8c6095317a64eb0221e39b807bcf6fa69/original%20data
 ## Datasets:
 - Customer data (Customers.csv): Demographic details such as gender, D.O.B, and location.
 - Sales data (Sales.csv): Transaction details, including product quantities, dates, and store IDs.
