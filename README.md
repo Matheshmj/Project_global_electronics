@@ -1,4 +1,4 @@
-Global Electronics - Data Analytics Project
+#Global Electronics - Data Analytics Project
 Problem Statement
 As part of the Global Electronics data analytics team, the goal is to conduct a comprehensive Exploratory Data Analysis (EDA) to uncover valuable insights from the company’s data. The aim is to provide actionable recommendations that enhance customer satisfaction, optimize operations, and drive overall business growth.
 
